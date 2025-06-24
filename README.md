@@ -78,11 +78,11 @@ Following are the requirements for implementing the project objectives:
    
 4. PLC and ethernet connection (I used Unity Pro XL software to simulate PLC and finally tested on real PLC with physical ethernet connection)
 
-## Project Overview
+## Project Overview 🧠
 
 ![image](https://github.com/user-attachments/assets/74579956-e220-4b42-becd-67d987b7fd09)
 
-## About Attached Files
+## About Attached Files 📁
 
 1. There are 3 code files and 1 csv file.
   
