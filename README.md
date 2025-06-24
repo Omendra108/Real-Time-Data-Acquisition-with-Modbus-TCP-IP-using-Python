@@ -67,11 +67,37 @@ Following are the requirements for implementing the project objectives:
 
 1. Python 3.11.9 (or 3.11.x)
 2. Python Libraries:
+   
    2.1. Pymodbus 3.9.2
+   
    2.2. pandas 2.3.0
+   
    2.3. matplotlib 3.10.3
+   
    2.4. easygui 0.98.3
-3. PLC and ethernet connection (I used Unity Pro XL software to simulate PLC and finally tested on real PLC with physical ethernet connection)
+   
+4. PLC and ethernet connection (I used Unity Pro XL software to simulate PLC and finally tested on real PLC with physical ethernet connection)
+
+## Project Overview
+
+![image](https://github.com/user-attachments/assets/74579956-e220-4b42-becd-67d987b7fd09)
+
+## About Attached Files
+
+1. There are 3 code files and 1 csv file.
+  
+2. All the code file have extension .py
+   
+3. The csv file is for input cointaining the variables to read from PLC, their addresses and value range.
+ 
+4. Their are 3 version of the project(three phases):
+    4.1. V1 is for single variable
+   
+    4.2. V2 is for multiple variable but onyl 2 plot at a time
+   
+    4.3. V3 is the final version for multiple variables with multiple plots at a time
+   
+
 
 
 
