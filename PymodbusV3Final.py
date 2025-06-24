@@ -1,4 +1,4 @@
-# Final Pymodbus V2.0 code (Working as expected)
+# Final Pymodbus V3 code (Working as expected)
 # Sucessfully tested at MST on 18th June
 # Integrated PLC Data Reader & Real-Time Plotter
 # Reads multiple PLC registers via Modbus TCP/IP, logs to CSV, and plots in real-time GUI
