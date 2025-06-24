@@ -1,4 +1,4 @@
-# Final Pymodbus Simulation Project code version-1 (Working as expected)
+# Final Pymodbus Project code version-2 (Working as expected)
 # Integrated code for data reading, logging and real-time plotting
 '''In this code we input a csv file cointaining information about Parameters, register address and range of value. 
 Using this information pymodbus communicates with PLC as a client to request data for all parameter and reads them sequentially.
