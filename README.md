@@ -91,6 +91,7 @@ Following are the requirements for implementing the project objectives:
 3. The csv file is for input cointaining the variables to read from PLC, their addresses and value range.
  
 4. Their are 3 version of the project(three phases):
+   
     4.1. V1 is for single variable
    
     4.2. V2 is for multiple variable but onyl 2 plot at a time
